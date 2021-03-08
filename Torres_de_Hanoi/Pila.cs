@@ -47,7 +47,11 @@ namespace Torres_de_Hanoi
 
         public bool isEmpty()
         {
-            return true;
+            if(this.Elementos.Count == 0)
+            {
+                return true;
+            }
+            return false;
         }
 
     }
