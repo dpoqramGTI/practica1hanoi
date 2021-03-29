@@ -1,0 +1,7 @@
+C:\GITprojects\practica1hanoi\Torres_de_Hanoi\bin\Debug\Torres_de_Hanoi.exe.config
+C:\GITprojects\practica1hanoi\Torres_de_Hanoi\bin\Debug\Torres_de_Hanoi.exe
+C:\GITprojects\practica1hanoi\Torres_de_Hanoi\bin\Debug\Torres_de_Hanoi.pdb
+C:\GITprojects\practica1hanoi\Torres_de_Hanoi\obj\Debug\Torres_de_Hanoi.csprojAssemblyReference.cache
+C:\GITprojects\practica1hanoi\Torres_de_Hanoi\obj\Debug\Torres_de_Hanoi.csproj.CoreCompileInputs.cache
+C:\GITprojects\practica1hanoi\Torres_de_Hanoi\obj\Debug\Torres_de_Hanoi.exe
+C:\GITprojects\practica1hanoi\Torres_de_Hanoi\obj\Debug\Torres_de_Hanoi.pdb
